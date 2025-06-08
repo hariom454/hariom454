@@ -42,7 +42,6 @@ I'm an experienced Software Development Engineer with a proven track record of l
 
 ## 🌟 Selected Projects
 
-- [Practice-Problems-Java](https://github.com/hariom454/Practice-Problems-Java): Java solutions to coding challenges.
 - [system-design](https://github.com/hariom454/system-design): Notes and approaches for solving system design problems.
 - [openapi-demo](https://github.com/hariom454/openapi-demo): Spring Boot project demonstrating OpenAPI spec integration.
 
@@ -59,8 +58,8 @@ I'm an experienced Software Development Engineer with a proven track record of l
 
 ## 📫 Get In Touch
 
-- **LinkedIn:** [Hariom Singh](https://www.linkedin.com/in/hariom-singh-030b88106/)
-- **Personal website:** [Hariom Singh Medium](https://medium.com/@bais_hariom)
+- **LinkedIn:** [Hariom Singh](https://www.linkedin.com/in/hariom-singh-030b88106/) on Linkedin
+- **Personal website:** [Hariom Singh](https://medium.com/@bais_hariom) on Medium
 
 ---
 
